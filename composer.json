@@ -1,0 +1,21 @@
+{
+    "name": "death_satan/session",
+    "description": "Session Manage",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DeathSatan\\Session\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Death-Satan",
+            "email": "2771717608@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "death_satan/array-helpers": "*"
+    }
+}
