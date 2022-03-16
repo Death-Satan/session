@@ -17,5 +17,6 @@
     "require": {
         "php": ">=7.4",
         "death_satan/array-helpers": "*"
-    }
+    },
+    "minimun-stability": "dev"
 }
