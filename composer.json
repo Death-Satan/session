@@ -18,5 +18,6 @@
         "php": ">=7.4",
         "death_satan/array-helpers": "*"
     },
-    "minimun-stability": "dev"
+    "minimun-stability": "dev",
+    "composer-runtime-api": "^2.0"
 }
